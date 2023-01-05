@@ -150,3 +150,86 @@ main{
     margin-bottom: 50px;
     
 }
+.resume-con{
+    display: flex;
+    gap: 40px;
+}
+.resume-item{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-title{    
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+.sub-title{    
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-des{    
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+}.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+footer{
+    background: #FFF8F3;
+    padding: 100px;
+}
+
+.contact{
+    display: flex;
+    gap: 100px;
+    
+}
+.footer-des{
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+    text-align: left;
+    padding: 30px 100px;
+}
+.footer-title{
+    text-align: left;
+    padding: 30px 100px;
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
+.icon-contact{
+    
+    padding-left: 20px;
+    
+}
+.contact input[type="text"],input[type="email"],textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+
+}
+form{
+    padding-right: 30px;
+}
+input{
+    height: 32px;
+}
+.contact a{
+    text-decoration: none;
+}
+.icon{
+    padding-left: 75px;
+}
